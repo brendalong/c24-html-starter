@@ -6,6 +6,20 @@ body {
    background-color: bisque;
 }
 
+/* this is the navigation styles */
+
+nav ul {
+   display: flex;
+   display: -webkit-flex;
+}
+nav li {
+   list-style-type: none;
+   color: burlywood;
+}
+nav a {
+   color: greenyellow;
+}
+
 footer {
    background-color: blueviolet;
    color: bisque;
